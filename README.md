@@ -1,4 +1,4 @@
-# 🏫 Projeto-Menu-Escolar
+# 🏫 Projeto-Menu-Escolar em C#.
 ➥  Projeto disciplinar com a funcionalidade de cadastrar, armazenar, editar, remover, e adicionar alunos e turmas em geral.
 
 # ❓ Como executar o projeto?
